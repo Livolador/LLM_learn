@@ -1,0 +1,5 @@
+torch
+transformers
+datasets # 数据集
+peft # 微调
+bitsandbytes # 量化模型
